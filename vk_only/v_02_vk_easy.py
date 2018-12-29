@@ -60,7 +60,7 @@ def post_url_to_post_id(url):
 
 if __name__ == '__main__':
     all_tokens = {
-        'Me': '1cc8e1444fd1bb6858af1a52c88b34543ab64533e357f146a351dace10154a15e7df18557c041a366c149',
+        'Me': 'a',
     }
     post_url = 'https://vk.com/wall-110373564_275376/'
 
